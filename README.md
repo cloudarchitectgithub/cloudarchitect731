@@ -13,7 +13,7 @@
   - [Elaboration of Executive Presentation of Infrastructure costs for an SAP Migration project from On-Premises to AWS](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
   - [Implementation of a set of EC2 instances using Terraform and AWS Systems Manager configuration with Amazon Simple Notification Service for automated installation of security officers](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
   - [Implementation of a Scalable Web Application using the services of AWS Elastic Beanstalk, DynamoDB, CloudFront and Edge Location](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-  - [Cloud Migration of On-Premises Infrastructure to AWS](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Cloud Migration of On-Premises Infrastructure to AWS](https://github.com/cloudarchitectgithub/Cloud-Migration-of-On-Premises-Infrastructure-to-AWS).
   - [Automated User Migration and Management of AWS IAM Resources](https://github.com/cloudarchitectgithub/Automated-User-Migration-and-Management-of-AWS-IAM-Resources) 
 - <b>Google (GCP)</b>
   - [Implementation of Global Cloud Load Balancing for High Availability and Intelligent Traffic Distribution](https://github.com/joshmadakor1/Sentinel-Lab)
