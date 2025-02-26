@@ -9,7 +9,7 @@
   - [Implementation of Functionality for converting Medical Information into Natural Speech in Multiple Languages Using AWS Artificial Intelligence Services (Amazon Polly & Amazon Translate)](https://github.com/cloudarchitectgithub/HealthHub-Medical-Voice-AWS-Translator)
   - 1[HealthHub Deployment of A 100% Serverless Application on AWS Using Amazon Congnito, S3, API Gateway, Dynamodb, and Amazon Lambda Services Via Cloudformation](https://github.com/cloudarchitectgithub/HealthHub-Medical-Voice-AWS-Translator)
 - <b>Amazon Web Services (AWS)</b>
-  - [Implementation of Automating Magento eCommerce Deployment on AWS Using Terraform and Ansible]()
+  - [Implementation of Automating Magento eCommerce Deployment on AWS Using Terraform and Ansible](https://github.com/cloudarchitectgithub/Automating-Magento-eCommerce-Deployment-on-AWS-Using-Terraform-and-Ansible)
   - [Elaboration of Executive Presentation of Infrastructure costs for an SAP Migration project from On-Premises to AWS](https://github.com/cloudarchitectgithub/SAP-Migration-AWS-Cost-Analysis)
   - [Implementation of a set of EC2 instances using Terraform and AWS Systems Manager configuration with Amazon Simple Notification Service for automated installation of security officers](https://github.com/cloudarchitectgithub/Terraform-AWS-SystemsManager-SNS-EC2-Security-Agents)
   - [Implementation of a Scalable Web Application using the services of AWS Elastic Beanstalk, DynamoDB, CloudFront and Edge Location](https://github.com/cloudarchitectgithub/AWS-Cloud-Scalable-Web-Application-using-AWS-Elastic-Beanstalk-DynamoDB-CloudFront-Edge-Location/tree/main).
