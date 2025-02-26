@@ -5,7 +5,7 @@
 - <b>Ai Cloud</b>
   - [Implementation of AI Agent Capable of Providing Customer Support and Scheduling Medical Appointments Using OpenAI API, Functions (API Call), And Rag (Retrieval-Augmented Generation) System.](https://github.com/cloudarchitectgithub/HealthHub-AI-Assistant)
   - [Implementation of a Machine Learning Solution for Identifying Diseases in Medical Images (X-Rays and Others) Using Google Cloud Vision AI Service](https://github.com/cloudarchitectgithub/HealthHub-Vision-AI)
-  - [Implementation of Functionality to Convert Audio Conversation Between Doctors and Patients into Text Using the Azure AI Speech Service]()  
+  - [Implementation of Functionality to Convert Audio Conversation Between Doctors and Patients into Text Using the Azure AI Speech Service](https://github.com/cloudarchitectgithub/HealthHub-Speech-to-Text)  
   - [Implementation of Functionality for converting Medical Information into Natural Speech in Multiple Languages Using AWS Artificial Intelligence Services (Amazon Polly & Amazon Translate)]()
   - [HealthHub Deployment of A 100% Serverless Application on AWS Using Amazon Congnito, S3, API Gateway, Dynamodb, and Amazon Lambda Services Via Cloudformation]()
 - <b>Amazon Web Services (AWS)</b>
