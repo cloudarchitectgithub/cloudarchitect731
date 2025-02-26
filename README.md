@@ -21,7 +21,7 @@
   - [Deployment of a Private Multi-Cloud Communication Network (AWS and GCP) Using 100 % Automated Using Terraform]()
   - [Automation of Google Cloud Storage Using Python and IAM Service Accounts]()
 - <b>DevOps</b>
-  - [HumanGov: Developing an Event-Driven and Serverless Python Microservice Triggered by DynamoDB Streams Using AWS Lambda Function and AWS SDK Python Boto3]()
+  - [HumanGov: Developing an Event-Driven and Serverless Python Microservice Triggered by DynamoDB Streams Using AWS Lambda Function and AWS SDK Python Boto3](https://github.com/cloudarchitectgithub/HumanGov-Serverless-Microservice)
   - [Automated Monitoring and Alerting for HumanGov Application Using AWS CloudWatch, SNS, and Chatbot]()
   - [Automating HumanGov SaaS Application Build and Deployment Process on Kubernetes with CI/CD Pipelines using the AWS Code Commit, AWS Code Pipeline and AWS Code Build]()
   - [HumanGov: Deployment of HumanGov SaaS Application on AWS Elastic Kubernetes Service (EKS) Using a Route 53 Domain, ALB Ingress, and SSL Endpoint Powered by AWS Certificate Manager]()
