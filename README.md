@@ -19,7 +19,7 @@
   - [Implementation of Global Cloud Load Balancing for High Availability and Intelligent Traffic Distribution](https://github.com/cloudarchitectgithub/Google-Cloud-Load-Balancing-Global-High-Availability-for-KidFlix-Application)
   - [Intercontinental VM Migration from USA to Australia Using GCP Storage Snapshots](https://github.com/cloudarchitectgithub/GCP-VM-Migration-USA-to-Australia-Region)
   - [Deployment of a Private Multi-Cloud Communication Network (AWS and GCP) Using 100 % Automated Using Terraform](https://github.com/cloudarchitectgithub/MultiCloud-Private-Connectivity-Terraform)
-  - [Automation of Google Cloud Storage Using Python and IAM Service Accounts]()
+  - [Automation of Google Cloud Storage Using Python and IAM Service Accounts](https://github.com/cloudarchitectgithub/Automation-Using-Python-on-Google-Cloud-IAM-Service-Accounts)
 - <b>DevOps</b>
   - [HumanGov: Developing an Event-Driven and Serverless Python Microservice Triggered by DynamoDB Streams Using AWS Lambda Function and AWS SDK Python Boto3](https://github.com/cloudarchitectgithub/HumanGov-Serverless-Microservice)
   - [Automated Monitoring and Alerting for HumanGov Application Using AWS CloudWatch, SNS, and Chatbot](https://github.com/cloudarchitectgithub/HumanGov-AWS-CloudWatch-Synthetics-Monitoring)
