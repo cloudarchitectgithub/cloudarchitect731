@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a **Cloud Engineer** with expertise in designi
   Developed functionality to convert doctor-patient audio conversations into text using **Azure AI Speech Service**.
 - **[HealthHub Medical Voice Translator](https://github.com/cloudarchitectgithub/HealthHub-Medical-Voice-AWS-Translator)**  
   Enabled multilingual medical information conversion using **AWS Polly** and **Amazon Translate**.
-- **[HealthHub Serverless Deployment](https://github.com/cloudarchitectgithub/HealthHub-Medical-Voice-AWS-Translator)**  
+- **[HealthHub Serverless Deployment](https://github.com/cloudarchitectgithub/HealthHub-Serverless-Deployment)**  
   Deployed a 100% serverless application on AWS using **CloudFormation**, **Cognito**, **S3**, **API Gateway**, **DynamoDB**, and **Lambda**.
 
 ### **Amazon Web Services (AWS)**
