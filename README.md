@@ -1,50 +1,90 @@
-<h1>Hi, I'm Kevin! <br/><a href="https://github.com/cloudarchit731"> <a href="https://www.linkedin.com/in/kevin-charles-aws/)/">Cloud Engineer Professional</a>, 
+# Hi, I'm Kevin! 👋
 
-<h2>👨‍💻 ☁️ Cloud Projects:</h2>
+<a href="https://github.com/cloudarchit731">
+  <img align="left" alt="Kevin's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.linkedin.com/in/kevin-charles-aws/">
+  <img align="left" alt="Kevin's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-- <b>Ai Cloud</b>
-  - [Implementation of AI Agent Capable of Providing Customer Support and Scheduling Medical Appointments Using OpenAI API, Functions (API Call), And Rag (Retrieval-Augmented Generation) System.](https://github.com/cloudarchitectgithub/HealthHub-AI-Assistant)
-  - [Implementation of a Machine Learning Solution for Identifying Diseases in Medical Images (X-Rays and Others) Using Google Cloud Vision AI Service](https://github.com/cloudarchitectgithub/HealthHub-Vision-AI)
-  - [Implementation of Functionality to Convert Audio Conversation Between Doctors and Patients into Text Using the Azure AI Speech Service](https://github.com/cloudarchitectgithub/HealthHub-Speech-to-Text)  
-  - [Implementation of Functionality for converting Medical Information into Natural Speech in Multiple Languages Using AWS Artificial Intelligence Services (Amazon Polly & Amazon Translate)](https://github.com/cloudarchitectgithub/HealthHub-Medical-Voice-AWS-Translator)
-  - 1[HealthHub Deployment of A 100% Serverless Application on AWS Using Amazon Congnito, S3, API Gateway, Dynamodb, and Amazon Lambda Services Via Cloudformation](https://github.com/cloudarchitectgithub/HealthHub-Medical-Voice-AWS-Translator)
-- <b>Amazon Web Services (AWS)</b>
-  - [Implementation of Automating Magento eCommerce Deployment on AWS Using Terraform and Ansible](https://github.com/cloudarchitectgithub/Automating-Magento-eCommerce-Deployment-on-AWS-Using-Terraform-and-Ansible)
-  - [Elaboration of Executive Presentation of Infrastructure costs for an SAP Migration project from On-Premises to AWS](https://github.com/cloudarchitectgithub/SAP-Migration-AWS-Cost-Analysis)
-  - [Implementation of a set of EC2 instances using Terraform and AWS Systems Manager configuration with Amazon Simple Notification Service for automated installation of security officers](https://github.com/cloudarchitectgithub/Terraform-AWS-SystemsManager-SNS-EC2-Security-Agents)
-  - [Implementation of a Scalable Web Application using the services of AWS Elastic Beanstalk, DynamoDB, CloudFront and Edge Location](https://github.com/cloudarchitectgithub/AWS-Cloud-Scalable-Web-Application-using-AWS-Elastic-Beanstalk-DynamoDB-CloudFront-Edge-Location/tree/main).
-  - [Cloud Migration of On-Premises Infrastructure to AWS](https://github.com/cloudarchitectgithub/Cloud-Migration-of-On-Premises-Infrastructure-to-AWS).
-  - [Automated User Migration and Management of AWS IAM Resources](https://github.com/cloudarchitectgithub/Automated-User-Migration-and-Management-of-AWS-IAM-Resources) 
-- <b>Google (GCP)</b>
-  - [Implementation of Global Cloud Load Balancing for High Availability and Intelligent Traffic Distribution](https://github.com/cloudarchitectgithub/Google-Cloud-Load-Balancing-Global-High-Availability-for-KidFlix-Application)
-  - [Intercontinental VM Migration from USA to Australia Using GCP Storage Snapshots](https://github.com/cloudarchitectgithub/GCP-VM-Migration-USA-to-Australia-Region)
-  - [Deployment of a Private Multi-Cloud Communication Network (AWS and GCP) Using 100 % Automated Using Terraform](https://github.com/cloudarchitectgithub/MultiCloud-Private-Connectivity-Terraform)
-  - [Automation of Google Cloud Storage Using Python and IAM Service Accounts](https://github.com/cloudarchitectgithub/Automation-Using-Python-on-Google-Cloud-IAM-Service-Accounts)
-- <b>DevOps</b>
-  - [HumanGov: Developing an Event-Driven and Serverless Python Microservice Triggered by DynamoDB Streams Using AWS Lambda Function and AWS SDK Python Boto3](https://github.com/cloudarchitectgithub/HumanGov-Serverless-Microservice)
-  - [Automated Monitoring and Alerting for HumanGov Application Using AWS CloudWatch, SNS, and Chatbot](https://github.com/cloudarchitectgithub/HumanGov-AWS-CloudWatch-Synthetics-Monitoring)
-  - [Automating HumanGov SaaS Application Build and Deployment Process on Kubernetes with CI/CD Pipelines using the AWS Code Commit, AWS Code Pipeline and AWS Code Build](https://github.com/cloudarchitectgithub/HumanGov-CI-CD-Pipeline-with-AWS-and-Kubernetes)
-  - [HumanGov: Deployment of HumanGov SaaS Application on AWS Elastic Kubernetes Service (EKS) Using a Route 53 Domain, ALB Ingress, and SSL Endpoint Powered by AWS Certificate Manager](https://github.com/cloudarchitectgithub/HumanGov-Multi-State-SaaS-Application-Deployment-on-AWS-EKS)
-  - [HumanGov: Proof of Concept (POC) on AWS Elastic Container Service (ECS) Fronted by Application Load Balancer (ALB) and Storing Docker Images on Elastic Container Registry (ECR)](https://github.com/cloudarchitectgithub/HumanGovAWSI-nfrastructure-ECS-ALB-ECR-Proof-of-Concept)
-  - [HumanGov: Deployment of A Reusable SaaS Multi-tenant AWS Infrastructure Using Terraform Modules Securely Storing Terraform Configuration Files on AWS Code Commit and AWS](https://github.com/cloudarchitectgithub/HumanGov-Terraform-AWS-Infrastructure)
+<br />
 
-<h2> 🔗 Connect with me:</h2>
+## ☁️ Cloud Engineer Professional | AWS | GCP | DevOps | AI Cloud Solutions
 
-[<img align="left" alt="KevinCharles | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+Welcome to my GitHub profile! I'm a **Cloud Engineer** with expertise in designing, implementing, and automating scalable cloud solutions across **AWS**, **GCP**, and **Azure**. I specialize in **cloud migration**, **DevOps automation**, **AI-driven cloud solutions**, and **serverless architectures**. Below, you'll find a showcase of my projects and contributions.
 
-[linkedin]: https://www.linkedin.com/in/kevin-charles-aws/
+---
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Featured Projects
 
-Here are some ideas to get you started:
+### **AI Cloud Solutions**
+- **[HealthHub AI Assistant](https://github.com/cloudarchitectgithub/HealthHub-AI-Assistant)**  
+  Implemented an AI agent for customer support and medical appointment scheduling using **OpenAI API**, **Functions (API Call)**, and **RAG (Retrieval-Augmented Generation)**.
+- **[HealthHub Vision AI](https://github.com/cloudarchitectgithub/HealthHub-Vision-AI)**  
+  Built a machine learning solution for disease identification in medical images using **Google Cloud Vision AI**.
+- **[HealthHub Speech-to-Text](https://github.com/cloudarchitectgithub/HealthHub-Speech-to-Text)**  
+  Developed functionality to convert doctor-patient audio conversations into text using **Azure AI Speech Service**.
+- **[HealthHub Medical Voice Translator](https://github.com/cloudarchitectgithub/HealthHub-Medical-Voice-AWS-Translator)**  
+  Enabled multilingual medical information conversion using **AWS Polly** and **Amazon Translate**.
+- **[HealthHub Serverless Deployment](https://github.com/cloudarchitectgithub/HealthHub-Medical-Voice-AWS-Translator)**  
+  Deployed a 100% serverless application on AWS using **CloudFormation**, **Cognito**, **S3**, **API Gateway**, **DynamoDB**, and **Lambda**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Amazon Web Services (AWS)**
+- **[Automating Magento eCommerce Deployment](https://github.com/cloudarchitectgithub/Automating-Magento-eCommerce-Deployment-on-AWS-Using-Terraform-and-Ansible)**  
+  Automated Magento deployment on AWS using **Terraform** and **Ansible**.
+- **[SAP Migration Cost Analysis](https://github.com/cloudarchitectgithub/SAP-Migration-AWS-Cost-Analysis)**  
+  Created an executive presentation for SAP migration costs from on-premises to AWS.
+- **[Terraform AWS EC2 Security Automation](https://github.com/cloudarchitectgithub/Terraform-AWS-SystemsManager-SNS-EC2-Security-Agents)**  
+  Automated EC2 instance setup with **AWS Systems Manager** and **SNS** for security agent installation.
+- **[Scalable Web Application](https://github.com/cloudarchitectgithub/AWS-Cloud-Scalable-Web-Application-using-AWS-Elastic-Beanstalk-DynamoDB-CloudFront-Edge-Location/tree/main)**  
+  Built a scalable web app using **Elastic Beanstalk**, **DynamoDB**, **CloudFront**, and **Edge Locations**.
+- **[Cloud Migration to AWS](https://github.com/cloudarchitectgithub/Cloud-Migration-of-On-Premises-Infrastructure-to-AWS)**  
+  Migrated on-premises infrastructure to AWS with minimal downtime.
+- **[Automated AWS IAM Management](https://github.com/cloudarchitectgithub/Automated-User-Migration-and-Management-of-AWS-IAM-Resources)**  
+  Automated user migration and IAM resource management on AWS.
+
+### **Google Cloud Platform (GCP)**
+- **[Global Cloud Load Balancing](https://github.com/cloudarchitectgithub/Google-Cloud-Load-Balancing-Global-High-Availability-for-KidFlix-Application)**  
+  Implemented global load balancing for high availability and intelligent traffic distribution.
+- **[Intercontinental VM Migration](https://github.com/cloudarchitectgithub/GCP-VM-Migration-USA-to-Australia-Region)**  
+  Migrated VMs from the USA to Australia using **GCP Storage Snapshots**.
+- **[Multi-Cloud Private Network](https://github.com/cloudarchitectgithub/MultiCloud-Private-Connectivity-Terraform)**  
+  Deployed a private multi-cloud network (AWS + GCP) using **Terraform**.
+- **[GCP Storage Automation](https://github.com/cloudarchitectgithub/Automation-Using-Python-on-Google-Cloud-IAM-Service-Accounts)**  
+  Automated Google Cloud Storage using **Python** and **IAM Service Accounts**.
+
+### **DevOps & CI/CD**
+- **[HumanGov Serverless Microservice](https://github.com/cloudarchitectgithub/HumanGov-Serverless-Microservice)**  
+  Developed an event-driven serverless microservice using **AWS Lambda** and **Boto3**.
+- **[AWS CloudWatch Monitoring](https://github.com/cloudarchitectgithub/HumanGov-AWS-CloudWatch-Synthetics-Monitoring)**  
+  Automated monitoring and alerting for applications using **CloudWatch**, **SNS**, and **Chatbot**.
+- **[CI/CD Pipeline for Kubernetes](https://github.com/cloudarchitectgithub/HumanGov-CI-CD-Pipeline-with-AWS-and-Kubernetes)**  
+  Automated build and deployment on **Kubernetes** using **AWS CodePipeline** and **CodeBuild**.
+- **[AWS EKS Deployment](https://github.com/cloudarchitectgithub/HumanGov-Multi-State-SaaS-Application-Deployment-on-AWS-EKS)**  
+  Deployed a SaaS application on **AWS EKS** with **Route 53**, **ALB Ingress**, and **SSL**.
+- **[Terraform AWS Infrastructure](https://github.com/cloudarchitectgithub/HumanGov-Terraform-AWS-Infrastructure)**  
+  Built reusable multi-tenant AWS infrastructure using **Terraform**.
+
+---
+
+## 🛠️ Technical Skills
+
+- **Cloud Platforms**: AWS, GCP, Azure
+- **DevOps Tools**: Terraform, Ansible, Kubernetes, Docker, Jenkins, GitHub Actions
+- **Programming Languages**: Python, Bash, JavaScript
+- **AI/ML Services**: OpenAI, Google Vision AI, Azure AI, AWS Polly, Amazon Translate
+- **Monitoring & Logging**: CloudWatch, Prometheus, Grafana, ELK Stack
+- **CI/CD**: AWS CodePipeline, GitHub Actions, Jenkins, GitLab CI/CD
+
+---
+
+## 📫 Let's Connect!
+
+[<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/kevin-charles-aws/)
+[<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/cloudarchit731)
+
+<br />
+
+---
+
+⭐️ Feel free to explore my repositories and reach out if you'd like to collaborate or discuss cloud engineering opportunities!
