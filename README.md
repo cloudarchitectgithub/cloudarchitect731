@@ -16,7 +16,7 @@
   - [Cloud Migration of On-Premises Infrastructure to AWS](https://github.com/cloudarchitectgithub/Cloud-Migration-of-On-Premises-Infrastructure-to-AWS).
   - [Automated User Migration and Management of AWS IAM Resources](https://github.com/cloudarchitectgithub/Automated-User-Migration-and-Management-of-AWS-IAM-Resources) 
 - <b>Google (GCP)</b>
-  - [Implementation of Global Cloud Load Balancing for High Availability and Intelligent Traffic Distribution]()
+  - [Implementation of Global Cloud Load Balancing for High Availability and Intelligent Traffic Distribution](https://github.com/cloudarchitectgithub/Google-Cloud-Load-Balancing-Global-High-Availability-for-KidFlix-Application)
   - [Intercontinental VM Migration from USA to Australia Using GCP Storage Snapshots]()
   - [Deployment of a Private Multi-Cloud Communication Network (AWS and GCP) Using 100 % Automated Using Terraform]()
   - [Automation of Google Cloud Storage Using Python and IAM Service Accounts]()
