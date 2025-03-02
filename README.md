@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a **Cloud Engineer** with expertise in designi
   Developed functionality to convert doctor-patient audio conversations into text using **Azure AI Speech Service**.
 - **[HealthHub Medical Voice Translator](https://github.com/cloudarchitectgithub/HealthHub-Medical-Voice-AWS-Translator)**  
   Enabled multilingual medical information conversion using **AWS Polly** and **Amazon Translate**.
-- **[HealthHub Serverless Deployment](https://github.com/cloudarchitectgithub/HealthHub-Serverless-Deployment)**  
+- **[HealthHub Serverless Deployment](https://github.com/cloudarchitectgithub/HealthHub-Medical-Voice-AWS-Translator)**  
   Deployed a 100% serverless application on AWS using **CloudFormation**, **Cognito**, **S3**, **API Gateway**, **DynamoDB**, and **Lambda**.
 
 ### **Amazon Web Services (AWS)**
@@ -62,6 +62,8 @@ Welcome to my GitHub profile! I'm a **Cloud Engineer** with expertise in designi
   Automated build and deployment on **Kubernetes** using **AWS CodePipeline** and **CodeBuild**.
 - **[AWS EKS Deployment](https://github.com/cloudarchitectgithub/HumanGov-Multi-State-SaaS-Application-Deployment-on-AWS-EKS)**  
   Deployed a SaaS application on **AWS EKS** with **Route 53**, **ALB Ingress**, and **SSL**.
+- **[HumanGov ECS POC](https://github.com/cloudarchitectgithub/HumanGov-AWS-Infrastructure-ECS-ALB-ECR-Proof-of-Concept)**  
+  Implemented a Proof of Concept (POC) on **AWS ECS** fronted by **Application Load Balancer (ALB)** and stored Docker images on **Elastic Container Registry (ECR)**.
 - **[Terraform AWS Infrastructure](https://github.com/cloudarchitectgithub/HumanGov-Terraform-AWS-Infrastructure)**  
   Built reusable multi-tenant AWS infrastructure using **Terraform**.
 
@@ -85,6 +87,9 @@ Welcome to my GitHub profile! I'm a **Cloud Engineer** with expertise in designi
 
 <br />
 
+---
+
+⭐️ Feel free to explore my repositories and reach out if you'd like to collaborate or discuss cloud engineering opportunities!
 ---
 
 ⭐️ Feel free to explore my repositories and reach out if you'd like to collaborate or discuss cloud engineering opportunities!
