@@ -1,11 +1,13 @@
 # Hi, I'm Kevin! 👋
 
-<a href="https://github.com/cloudarchitectgithub/cloudarchitect731">
-  <img align="left" alt="Kevin's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.linkedin.com/in/kevin-charles-aws/">
-  <img align="left" alt="Kevin's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+<div class="social-icons" style="display: flex; flex-wrap: wrap; gap: 15px; margin-bottom: 20px;">
+  <a href="https://github.com/cloudarchitectgithub/cloudarchitect731" style="display: inline-block;">
+    <img alt="Kevin's GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="max-width: 100%; height: auto;" />
+  </a>
+  <a href="https://www.linkedin.com/in/kevin-charles-aws/" style="display: inline-block;">
+    <img alt="Kevin's LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width: 100%; height: auto;" />
+  </a>
+</div>
 
 <br />
 
