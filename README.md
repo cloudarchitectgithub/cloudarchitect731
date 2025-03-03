@@ -1,6 +1,6 @@
 # Hi, I'm Kevin! 👋
 
-<a href="https://github.com/cloudarchit731">
+<a href="https://github.com/cloudarchitectgithub/cloudarchitect731">
   <img align="left" alt="Kevin's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.linkedin.com/in/kevin-charles-aws/">
