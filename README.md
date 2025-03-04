@@ -13,7 +13,7 @@
 
 ## ☁️ Cloud Engineer Professional | AWS | GCP | DevOps | AI Cloud Solutions
 
-Welcome to my GitHub profile! I'm a **Cloud Engineer** with expertise in designing, implementing, and automating scalable cloud solutions across **AWS**, **GCP**, and **Azure**. I specialize in **cloud migration**, **DevOps automation**, **AI-driven cloud solutions**, and **serverless architectures**. Below, you'll find a showcase of my projects and contributions.
+Welcome to my GitHub profile! I'm a **Cloud Engineer** with expertise in designing, implementing, and automating scalable cloud solutions across **AWS**, **GCP**, and **Azure**. I specialize in **cloud migration**, **DevOps automation**, **AI-driven cloud solutions**, and **serverless architectures**. Below, you'll find a showcase of my projects and contributions:
 
 ---
 
