@@ -30,6 +30,8 @@ Welcome to my GitHub profile! I'm a **Cloud Engineer** with expertise in designi
   Enabled multilingual medical information conversion using **AWS Polly** and **Amazon Translate**.
 - **[HealthHub Serverless Deployment](https://github.com/cloudarchitectgithub/HealthHub-AWS-Serverless-App)**  
   Deployed a 100% serverless application on AWS using **CloudFormation**, **Cognito**, **S3**, **API Gateway**, **DynamoDB**, and **Lambda**.
+- **[Local RAG Implementation with DeepSeek and Ollama](https://github.com/cloudarchitectgithub/Local-RAG-Implementation-with-DeepSeek-and-Ollama)**
+  Developed a local **Retrieval-Augmented Generation (RAG)** solution using **DeepSeek**, **Ollama**, and Python for privacy-focused AI inference.
 
 ### **Amazon Web Services (AWS)**
 - **[Automating Magento eCommerce Deployment](https://github.com/cloudarchitectgithub/Automating-Magento-eCommerce-Deployment-on-AWS-Using-Terraform-and-Ansible)**  
