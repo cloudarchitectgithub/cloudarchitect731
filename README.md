@@ -77,7 +77,7 @@ Welcome to my GitHub profile! I'm a **Cloud Engineer** with expertise in designi
 
 - **Cloud Platforms**: AWS, GCP, Azure
 - **DevOps Tools**: Terraform, Ansible, Kubernetes, Docker, Jenkins, GitHub Actions
-- **Programming Languages**: Python, Bash, JavaScript
+- **Programming Languages**: Python, Bash, JavaScript, React, Node.js, TypeScript 
 - **AI/ML Services**: OpenAI, Google Vision AI, Azure AI, AWS Polly, Amazon Translate
 - **Monitoring & Logging**: CloudWatch, Prometheus, Grafana, ELK Stack
 - **CI/CD**: AWS CodePipeline, GitHub Actions, Jenkins, GitLab CI/CD
