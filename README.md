@@ -78,9 +78,7 @@ Welcome to my GitHub profile! I'm a **Cloud Engineer** with expertise in designi
 - **Cloud Platforms**: AWS, GCP, Azure
 - **DevOps Tools**: Terraform, Ansible, Kubernetes (EKS, GKE), Docker, Jenkins, GitHub Actions
 - **Programming Languages**: Python, Bash, JavaScript, React, Node.js, TypeScript, JSON, TailwindCSS 
-- **AI/ML Services**: GCP Pipelines - Vertex, Kubeflow, Apache Airflow, TensorFlow (TFX), Dataflow, Cloud Functions, Cloud Run, Azure Machine Learning (AML) Google Vision AI, Azure Speech AI,
--                     Amazon - Polly, Translate, Lex, Bedrock, SageMaker, Step Functions, Glue, 
--                     Open Source Tools - OpenAI API, GPT, Claude, Llama, RAG, BERT, T5, Hugging Face Transformers, PyTorch
+- **AI/ML Services**: GCP Pipelines - Vertex, Kubeflow, Apache Airflow, TensorFlow (TFX), Dataflow, Cloud Functions, Cloud Run, Azure Machine Learning (AML) Google Vision AI, Azure Speech AI, Amazon - Polly, Translate, Lex, Bedrock, SageMaker, Step Functions, Glue, Open Source Tools - OpenAI API, GPT, Claude, Llama, RAG, BERT, T5, Hugging Face Transformers, PyTorch
 - **Monitoring & Logging**: CloudWatch, Prometheus, Grafana, ELK Stack
 - **CI/CD**: AWS CodePipeline, GitHub Actions, Jenkins, GitLab CI/CD
 
